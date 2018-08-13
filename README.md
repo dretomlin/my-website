@@ -2,6 +2,4 @@
 
 This is an awesome experience
 Learnin.
-
-Now editing on update-readme branch
-Now editing on local machine
+Updates made on master branch on Github before rebase
